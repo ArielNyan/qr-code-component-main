@@ -1,0 +1,14 @@
+@media screen and (min-width:420px) {
+    
+
+    .container{
+        width: 30% !important;
+
+        &__text{
+            h1{
+                font-size: 1.5rem;
+            }
+        }
+    }
+
+}

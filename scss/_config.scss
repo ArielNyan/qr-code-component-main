@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;
+}
+
+
+$white: hsl(0, 0%, 100%);
+$gray: hsl(212, 45%, 89%);
+$light-blue: hsl(220, 15%, 55%);
+$dark-blue: hsl(218, 44%, 22%);
+
+p{
+    font-size: 15px;
+}
